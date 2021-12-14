@@ -1,0 +1,22 @@
+.header{
+	min-height: 88px;
+	background-color: red;
+}
+.slider{
+	min-height: 180px;
+	background-color: lightblue;
+
+}
+.about_me{}
+.contact{
+	min-height: 120px;
+	background-color: greenyellow;
+}
+    
+.blog{
+	min-height: 120px;
+	background-color: yellow;
+}
+.YouTube{
+	width: 100%;
+}
